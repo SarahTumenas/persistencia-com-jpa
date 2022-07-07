@@ -22,7 +22,5 @@ w
 G.idea/sonarlint/issuestore/1/f/1f1763f358c257ea3515417352b82b0165647ad1,4\4\441e6168af36afe9568996929caf6842abd87b08
 9
 	ReadMe.md,a\2\a225a7e79496c5a1d847c78c3db651eb302ec867
-c
-3src/main/java/br/com/alura/loja/dao/ProdutoDao.java,e\0\e0aa84f8676cc7c4b9d629b649c6be8102597888
 a
 1src/main/java/br/com/alura/loja/util/JPAUtil.java,f\c\fcf64589e3d0a4aaf63ef5e62de808f8567b8e0d
