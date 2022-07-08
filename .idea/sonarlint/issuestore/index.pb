@@ -23,8 +23,6 @@ G.idea/sonarlint/issuestore/1/f/1f1763f358c257ea3515417352b82b0165647ad1,4\4\44
 a
 1src/main/java/br/com/alura/loja/util/JPAUtil.java,f\c\fcf64589e3d0a4aaf63ef5e62de808f8567b8e0d
 w
-G.idea/sonarlint/issuestore/a/2/a225a7e79496c5a1d847c78c3db651eb302ec867,8\a\8ad0b871d56422ee6e187a7a839d74e6124c44db
-w
 G.idea/sonarlint/issuestore/8/4/84e47ea35f445eb5238128908f068928322bf283,3\d\3d1ca924db7ef78f0dd0db0a435213aec2448d88
 w
 G.idea/sonarlint/issuestore/4/4/441e6168af36afe9568996929caf6842abd87b08,b\0\b07c017730e4de593a74edc35a7dcfdd08e51e92
