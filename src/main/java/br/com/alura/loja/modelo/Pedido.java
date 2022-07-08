@@ -16,6 +16,7 @@ public class Pedido {
     private Long id;
 
 
+    @Column(name = "valor_total")
     private BigDecimal valorTotal;
 
     private LocalDate data = LocalDate.now();
@@ -23,7 +24,7 @@ public class Pedido {
     @ManyToOne
     private Cliente cliente;
 
-    @OneToMany (mappedBy = "pedido")
+    @OneToMany (mappedBy = "pedido", cascade = CascadeType.ALL)
     private List <ItemPedido> itens = new ArrayList<>();
 
     public Pedido() {
