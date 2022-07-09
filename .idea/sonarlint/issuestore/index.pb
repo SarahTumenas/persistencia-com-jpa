@@ -57,8 +57,6 @@ e
 e
 5src/main/java/br/com/alura/loja/dao/CategoriaDao.java,9\9\99c13ea9694a3e6d969b9aa309982215631699c9
 c
-3src/main/java/br/com/alura/loja/modelo/Produto.java,e\8\e83ad084658b669a336eaa2b791243afe43ffca5
-c
 3src/main/java/br/com/alura/loja/modelo/Cliente.java,a\b\ab26fdb81a6c583bd8513dce6ae11ec3645e9866
 w
 G.idea/sonarlint/issuestore/b/7/b74e8c230459235775e2f7c88126ddb0ac14fa2d,f\b\fb161f50f4ccaeff05773bcbbd14483b77364e1c
@@ -80,12 +78,8 @@ w
 G.idea/sonarlint/issuestore/3/3/33b0e5147efe47c72673b98f7c4e1ed52127646d,4\4\444fdfb872bcaef16440747eeeeb48a37935433b
 w
 G.idea/sonarlint/issuestore/8/3/83b3a73f1dc997e2ea644294126983d3bcac21f7,e\6\e685c3c1b940e8f13b8c9a9549093df97a3b129b
-n
->src/main/java/br/com/alura/loja/testes/CadastroDeProdutos.java,2\9\29d19bf38367acda38044af78823e809339b255c
 c
 3src/main/java/br/com/alura/loja/dao/ClienteDao.java,b\b\bbb2fc136bb5c7bcac6cdc425f17a40644829014
-c
-3src/main/java/br/com/alura/loja/dao/ProdutoDao.java,e\0\e0aa84f8676cc7c4b9d629b649c6be8102597888
 f
 6src/main/java/br/com/alura/loja/modelo/ItemPedido.java,d\3\d3ac004f6301079f9e5e907c2967113e63da4124
 b
