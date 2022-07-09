@@ -52,12 +52,6 @@ w
 G.idea/sonarlint/issuestore/9/9/99c13ea9694a3e6d969b9aa309982215631699c9,3\9\3940f09afa5533c419b3efad60149d1e8b52d471
 9
 	ReadMe.md,a\2\a225a7e79496c5a1d847c78c3db651eb302ec867
-e
-5src/main/java/br/com/alura/loja/modelo/Categoria.java,1\2\129b75d6ff949c750b2e8bcfff173c4ba0572347
-e
-5src/main/java/br/com/alura/loja/dao/CategoriaDao.java,9\9\99c13ea9694a3e6d969b9aa309982215631699c9
-c
-3src/main/java/br/com/alura/loja/modelo/Cliente.java,a\b\ab26fdb81a6c583bd8513dce6ae11ec3645e9866
 w
 G.idea/sonarlint/issuestore/b/7/b74e8c230459235775e2f7c88126ddb0ac14fa2d,f\b\fb161f50f4ccaeff05773bcbbd14483b77364e1c
 w
@@ -78,9 +72,3 @@ w
 G.idea/sonarlint/issuestore/3/3/33b0e5147efe47c72673b98f7c4e1ed52127646d,4\4\444fdfb872bcaef16440747eeeeb48a37935433b
 w
 G.idea/sonarlint/issuestore/8/3/83b3a73f1dc997e2ea644294126983d3bcac21f7,e\6\e685c3c1b940e8f13b8c9a9549093df97a3b129b
-c
-3src/main/java/br/com/alura/loja/dao/ClienteDao.java,b\b\bbb2fc136bb5c7bcac6cdc425f17a40644829014
-f
-6src/main/java/br/com/alura/loja/modelo/ItemPedido.java,d\3\d3ac004f6301079f9e5e907c2967113e63da4124
-b
-2src/main/java/br/com/alura/loja/modelo/Pedido.java,7\a\7a7fd26ef374071e8f57fc02c56c21cf94f8619a
