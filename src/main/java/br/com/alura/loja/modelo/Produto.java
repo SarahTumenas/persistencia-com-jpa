@@ -8,6 +8,8 @@ import java.time.LocalDate;
 @Entity
 @Table(name = "produtos")
 @NamedQuery(name = "Produto.produtosPorCategoria", query = "SELECT p FROM Produto p WHERE p.categoria.nome = :nome")
+//@Inheritance(strategy = InheritanceType.SINGLE_TABLE)
+@Inheritance(strategy = InheritanceType.JOINED)
 public class Produto {
 
     @Id
