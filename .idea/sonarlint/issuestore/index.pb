@@ -72,8 +72,6 @@ c
 3src/main/java/br/com/alura/loja/dao/ClienteDao.java,b\b\bbb2fc136bb5c7bcac6cdc425f17a40644829014
 e
 5src/main/java/br/com/alura/loja/dao/CategoriaDao.java,9\9\99c13ea9694a3e6d969b9aa309982215631699c9
-e
-5src/main/java/br/com/alura/loja/modelo/Categoria.java,1\2\129b75d6ff949c750b2e8bcfff173c4ba0572347
 l
 <src/main/java/br/com/alura/loja/testes/CadastroDePedido.java,c\0\c0f66620c472da836865bb4b39815f49aa6fe296
 f
