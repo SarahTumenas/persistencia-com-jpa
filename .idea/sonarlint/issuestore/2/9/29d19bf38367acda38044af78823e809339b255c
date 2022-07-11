@@ -1,0 +1,8 @@
+
+`
+java:S1192""JDefine a constant instead of duplicating this literal "CELULARES" 3 times.(ÀùÎõ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ş¾‚—øÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ùÁ5
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(‘öŸ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(†ÑÏ±ıÿÿÿÿ
+P	java:S125%"<This block of commented-out lines of code should be removed.(¸ÊÜ6
